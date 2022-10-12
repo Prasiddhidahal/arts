@@ -1,0 +1,80 @@
+[
+    {
+        "templateTitle": "Phyllotaxis",
+        "templateImage": "https://bl.ocks.org/jhubley/raw/48406982f6988b626d9527d75a98b062/322fed41c76c6e46132eceb4917958a6c8ffd9c5/preview.png",
+        "redirectTo": "/template/phyllotaxis"
+    },
+    {
+        "templateTitle": "Perlin Noise Flow Field",
+        "templateImage": "https://www.tomesoftware.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-29-at-11.14.20-AM.png",
+        "redirectTo": "/template/perlinnoise"
+    },
+    {
+        "templateTitle": "Lorentz Attractor",
+        "templateImage": "https://scipython.com/static/media/blog/lorenz/lorenz2.png",
+        "redirectTo": "/template/lorentzattractor"
+    },
+    {
+        "templateTitle": "Mandelbrot Set",
+        "templateImage": "https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg",
+        "redirectTo": "/template/mandelbrotset"
+    },
+    {
+        "templateTitle": "Recursive Tree",
+        "templateImage": "https://i.stack.imgur.com/WMRSU.gif",
+        "redirectTo": "/template/recursivetree"
+    },
+    {
+        "templateTitle": "10PRINT LINE",
+        "templateImage": "https://res.cloudinary.com/practicaldev/image/fetch/s--jS6XD10b--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/dd707r3swyqoa1e0giqz.png",
+        "redirectTo": "/template/Tenprint"
+    },
+    {
+        "templateTitle": "TEN-PRINT Circle",
+        "templateImage": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBmBpt7OPeP9E5GjzYayA4l-N3i08dhksZTjEzQV-TkMjf4qkz",
+        "redirectTo": "/template/tenprintcircle"
+    },
+    {
+        "templateTitle": "Recursion Circle",
+        "templateImage": "https://i.stack.imgur.com/RStyg.jpg",
+        "redirectTo": "/template/recursioncircle"
+    },
+    {
+        "templateTitle": "Rotated Box",
+        "templateImage": "https://c4.wallpaperflare.com/wallpaper/244/736/34/pattern-texture-square-pastel-wallpaper-preview.jpg",
+        "redirectTo": "/template/rotatedbox"
+    },
+    {
+        "templateTitle": "Wavy",
+        "templateImage":"https://www.pinterest.com/pin/813533120165549298/" ,
+        "redirectTo": "/template/Wavy"
+    },
+
+    {
+        "templateTitle": "Mandala",
+        "templateImage":"https://www.shutterstock.com/image-vector/new-flower-mandala-design-background-vector-1826619995" ,
+        "redirectTo": "/template/Mandala"
+    },
+
+    {
+        "templateTitle": "Perlin Noise Randomness",
+        "templateImage":"https://theibbster.medium.com/a-gentle-introduction-to-coding-by-making-generative-art-c7f0a7b744a6" ,
+        "redirectTo": "/template/perlinrandomness"
+    },
+
+    {
+        "templateTitle": "Grid",
+        "templateImage":"https://csee.bangor.ac.uk/wp-content/uploads/2022/01/line-art-set-of-horizontal-vert-lines.png" ,
+        "redirectTo": "/template/Grid"
+    },
+
+    {
+        "templateTitle": "ASCII Fabric",
+        "templateImage":"https://www.pinterest.com/pin/773704411002083217/" ,
+        "redirectTo": "/template/ASCIIFabric"
+    }
+
+
+
+    
+]
